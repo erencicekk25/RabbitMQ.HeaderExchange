@@ -1,0 +1,17 @@
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\bin\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.exe
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\bin\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.deps.json
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\bin\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\bin\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.dll
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\bin\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.pdb
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.dll
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\refint\RabbitMQ.HeaderExchange.Consumer.dll
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.pdb
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\RabbitMQ.HeaderExchange.Consumer.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\.NetProjeler\RabbitMQ.HeaderExchange\RabbitMQ.HeaderExchange.Consumer\obj\Debug\net7.0\ref\RabbitMQ.HeaderExchange.Consumer.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/a3bWbBCKE2rXdueuuwfQ0f2av21PlagRSUf0W3eVBzYVBifubg6hBXOifksxdbMs6H6LotBntEFL0TSif6Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbitMQ.HeaderExchange\\RabbitMQ.HeaderExchange.Consumer\\RabbitMQ.HeaderExchange.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\rabbitmq.client\\6.7.0\\rabbitmq.client.6.7.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
